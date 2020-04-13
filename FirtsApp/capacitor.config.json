@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "FirtsApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "FirtsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
